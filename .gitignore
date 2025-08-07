@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# DVC cache and local config
+/.dvc/cache/
+/.dvc/tmp/
+*.dvc
+!.dvcignore
+
+# Data or model files (optional, depending on DVC)
+data/
+models/
+
+# Docker artifacts
+*.pid
+
+# Others (optional)
+*.bak
+*.swp
