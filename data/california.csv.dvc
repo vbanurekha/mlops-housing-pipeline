@@ -1,0 +1,5 @@
+outs:
+- md5: 80b0e92e866a6b6343522f3593f8c605
+  size: 1915790
+  hash: md5
+  path: california.csv

@@ -22,13 +22,14 @@ Thumbs.db
 *.log
 
 # DVC cache and local config
+data/*
+!data/*.dvc 
 /.dvc/cache/
 /.dvc/tmp/
-*.dvc
-!.dvcignore
+
 
 # Data or model files (optional, depending on DVC)
-data/
+
 models/
 
 # Docker artifacts
@@ -37,3 +38,7 @@ models/
 # Others (optional)
 *.bak
 *.swp
+
+# MLflow experiment tracking
+mlruns/
+mlartifacts/
