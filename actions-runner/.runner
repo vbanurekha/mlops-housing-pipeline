@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 21,
+  "agentName": "DESKTOP-08MH6O6",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/f8ehDX0Y4PXYOGfA9wt57JbQod1xMRbVqJGIaOikXv0pGKzoRD/",
+  "gitHubUrl": "https://github.com/vbanurekha/mlops-housing-pipeline",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
