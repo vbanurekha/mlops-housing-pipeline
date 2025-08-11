@@ -42,3 +42,7 @@ models/
 # MLflow experiment tracking
 mlruns/
 mlartifacts/
+
+*.zip
+
+actions-runner/
